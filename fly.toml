@@ -1,0 +1,3 @@
+[mounts]
+source="casino_data"
+destination="/app"
